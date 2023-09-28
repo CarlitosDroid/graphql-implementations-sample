@@ -1,5 +1,9 @@
 # Demo GraphQL Server with Express
 
+<p align="center">
+    <img src="screenshots/GraphQLNodejs.png" alt="icon" width="30%"/>
+</p>
+
 ## Run the project
 1. Move into the app folder:
 
