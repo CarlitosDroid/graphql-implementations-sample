@@ -1,7 +1,7 @@
 # Demo GraphQL Server with Express
 
 <p align="center">
-    <img src="screenshots/GraphQLNodejs.png" alt="icon" width="30%"/>
+    <img src="screenshots/GraphQLNodejs.png" alt="icon" width="50%"/>
 </p>
 
 ## Run the project
