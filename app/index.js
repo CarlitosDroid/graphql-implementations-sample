@@ -1,8 +1,9 @@
-const express = require('express');
-const graphqlHTTP = require('express-graphql');
+var express = require("express")
+var { graphqlHTTP } = require("express-graphql")
 const schema = require('./graphql/schema')
 const PORT = 8888;
 const app = express();
+
 app.get('/', (req, res) => {
     res.send('HELLO WORLD!');
 })
